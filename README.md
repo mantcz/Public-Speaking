@@ -5,7 +5,7 @@ Advice worth spreading about how to approach public speaking. For those of us pe
 1. How to Start a Speech by Conor Neill
 ```
 
-[Video](https://www.youtube.com/watch?v=w82a1FT5o88)
+[Link to the video](https://www.youtube.com/watch?v=w82a1FT5o88)
 
 - start with a question that matters to the audience (number 3)
 - factoid that shocks. (number 2) Examples:  
@@ -21,7 +21,7 @@ Advice worth spreading about how to approach public speaking. For those of us pe
 2. Improve Your Speaking by Conor Neill
 ```
 
-[Video](https://www.youtube.com/watch?v=c8_BIamLESg)
+[Link to the video](https://www.youtube.com/watch?v=c8_BIamLESg)
 
 - practice, practice and practice
 - do 3 minutes a day video on laptop
