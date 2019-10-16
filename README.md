@@ -26,3 +26,22 @@ Advice worth spreading about how to approach public speaking. For those of us pe
 - practice, practice and practice
 - do 3 minutes a day video on laptop
 
+```
+3. The 3 Aspects of a Great Conference Talk by Rob Walling
+```
+
+[Link to the article](https://robwalling.com/2019/09/30/the-3-aspects-of-a-great-conference-talk/)
+
+My mental model of a talk has 3 aspects that should work in tandem:
+
+#### Content
+The key with content is to know your audience and their expectations.
+#### Delivery
+Delivery is about stage presence. Energy. Confidence.
+
+You know it when you see it – some people have great stage presence, other people (like me in 2008) seem nervous and meek. Over-caffeinated and stressed.
+
+This one takes a lot of repetition to overcome (for those who don’t have it naturally), whether on your own or with a speaking coach.
+
+#### Entertainment
+Difficult to make it right. 
